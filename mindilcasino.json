@@ -1,0 +1,13 @@
+{
+    "language": "en",
+    "maxReviews": 500,
+    "personalData": false,
+    "reviewsSort": "mostRelevant",
+    "reviewsStartDate": "2022-02-21",
+    "startUrls": [
+        {
+            "url": "https://maps.app.goo.gl/WYLTp3PUc738NcF77",
+            "method": "GET"
+        }
+    ]
+}
